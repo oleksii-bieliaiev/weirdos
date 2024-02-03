@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weirdos/static/css/main.79a46d0b.css",
-    "main.js": "/weirdos/static/js/main.69d2c1d3.js",
+    "main.js": "/weirdos/static/js/main.1f21dbfd.js",
     "static/media/Home Video.mp4": "/weirdos/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/weirdos/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
     "static/media/akaya-telivigala-telugu-400-normal.woff": "/weirdos/static/media/akaya-telivigala-telugu-400-normal.e112204d4f41f4f53710.woff",
@@ -24,10 +24,10 @@
     "static/media/Arrow.svg": "/weirdos/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
     "index.html": "/weirdos/index.html",
     "main.79a46d0b.css.map": "/weirdos/static/css/main.79a46d0b.css.map",
-    "main.69d2c1d3.js.map": "/weirdos/static/js/main.69d2c1d3.js.map"
+    "main.1f21dbfd.js.map": "/weirdos/static/js/main.1f21dbfd.js.map"
   },
   "entrypoints": [
     "static/css/main.79a46d0b.css",
-    "static/js/main.69d2c1d3.js"
+    "static/js/main.1f21dbfd.js"
   ]
 }
