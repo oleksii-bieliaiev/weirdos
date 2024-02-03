@@ -40,8 +40,13 @@ position: relative;
 `
 
 const Button = ({ text, link }) => {
+
+  const handleClick = () => {
+    window.open(link, '_blank');
+  };
+
   return (
-    <Btn>
+    <Btn onClick={handleClick}>
       <a href={link} aria-label={text} target='_blank' rel="noreferrer">
         {text}
       </a>

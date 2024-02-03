@@ -136,6 +136,11 @@ position: relative;
 `
 
 const Banner = () => {
+
+  const handleClick = () => {
+ 
+    window.open('#', '_blank');
+  };
   return (
     <Section>
       <ImgContainer>
@@ -148,7 +153,7 @@ const Banner = () => {
       </ImgContainer>
       <Title> Join the <br /> weirdos club</Title>
       <BtnContainer>
-        <JoinNow>
+        <JoinNow onClick={handleClick}>
            Join Now
         </JoinNow>
       </BtnContainer>
